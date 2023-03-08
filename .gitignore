@@ -1,0 +1,18 @@
+# C# compiled files
+*.exe
+*.dll
+*.pdb
+
+# Visual Studio files
+*.suo
+*.user
+*.sln.docstates
+*.csproj.user
+
+# build results
+[Dd]ebug/
+[Rr]elease/
+x64/
+build/
+[Bb]in/
+[Oo]bj/
